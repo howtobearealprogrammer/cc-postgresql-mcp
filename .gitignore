@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+src/dist/
+
+# Logs
+*.log
+cc-postgresql-debug.log
+
+# Environment and config
+.env
+.env.local
+config.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# npm
+npm-debug.log*
+package-lock.json
+
+# TypeScript cache
+*.tsbuildinfo
